@@ -39,7 +39,6 @@ Answer:
     They are the ones who makes the most number of customer care calls to the bank as the average calls made is 7 
 
 
-
 **Label 1 can be considered medium valued customers** 
     
     This group forms the majority of the customers having about 58% customers in total  ( 386/660 )
